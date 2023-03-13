@@ -1,0 +1,1 @@
+{"1": {"py/object": "Domain.film.Film", "id_entitate": "1", "titlu": "Batman", "an_aparitie": "2009", "pret_bilet": 20.99, "in_program": "da"}, "2": {"py/object": "Domain.film.Film", "id_entitate": "2", "titlu": "Joker", "an_aparitie": "2019", "pret_bilet": 25.99, "in_program": "da"}}
